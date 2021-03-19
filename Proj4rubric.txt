@@ -1,0 +1,189 @@
+Project 4 Rubric
+Criteria	Ratings	Pts
+Files Correctly Submitted
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Program Assembles & Links
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Documentation - Identification Block - Header
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Documentation - Identification Block - Program Description
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Documentation - Procedure Headers
+4 pts
+Full Marks
+2 pts
+Headers without Conditions
+Descriptive headers but lacking pre- and post-conditions and 'registers changed'
+0 pts
+No Marks
+Comments
+Program does not have any procedure headers. Please refer to the CS 271 Style Guide to see how they should be documented in the program.
+0 / 4 pts
+Documentation - Section and In-line Comments
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Verification - Program Executes
+3 pts
+Full Marks
+2 pts
+Failed Attempt
+Program is an attempt at the correct assignment but simply does not run.
+0 pts
+Not An Attempt
+Program executes but is either the incorrect program or some quickly mashed together nonsense, submitted only to 'get a few points'
+3 / 3 pts
+Completeness - Displays Title & Programmer Name
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Prompts for Input (with Bounds)
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Gets data from User
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Completeness - Validates User Data
+2 pts
+Full Marks
+1 pts
+Partial validation
+Neglects to check edge cases, otherwise functional.
+0 pts
+No Marks
+2 / 2 pts
+Completeness - Displays Results
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Completeness - Displays closing message
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Correctness - Displays correct number of prime numbers
+4 pts
+Full Marks
+3 pts
+Mostly Correct
+Edge cases are neglected or display incorrectly.
+0 pts
+No Marks
+4 / 4 pts
+Correctness - Calculations are Correct
+6 pts
+Full Marks
+2 pts
+Not Perfect
+Some (fewer than 5) non-prime values appear, or some primes (fewer than 5) appear out of order
+0 pts
+No Marks
+6 / 6 pts
+Correctness - Numbers are displays 10 per line
+3 pts
+Full Marks
+0 pts
+No Marks
+Comments
+Program does not display values in 10 per line.
+0 / 3 pts
+Correctness - Partial lines displayed correctly
+1 pts
+Full Marks
+0 pts
+No Marks
+0 / 1 pts
+Requirements - Limits are CONSTANTs
+2 pts
+Full Marks
+0 pts
+No Marks
+Comments
+Constants need to be in all capitals. Placement is correct so only partial point lost for not being all capitals.
+1.5 / 2 pts
+Requirements - Program is well-modularized
+10 pts
+Full Marks
+8 pts
+Lacking some Procedures
+Well modularized, but lacking all required procedures
+1 pts
+No procedures
+Well modularized, but fails to utilize procedures
+0 pts
+No Marks
+Comments
+Per the instructions, the main procedure should consist of only procedure calls. This program was written all inside of the main procedure instead.
+1 / 10 pts
+Requirements - Counted loop uses LOOP instruction
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Coding Style - Uses appropriately named identifiers
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Coding Style - Readability
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Output Style - Readability
+1 pts
+Full Marks
+0 pts
+No Marks
+1 / 1 pts
+Extra Credit
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Late Penalty
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Pre-filled Primes Penalty
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Total Points: 32.5
